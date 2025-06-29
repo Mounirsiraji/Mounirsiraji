@@ -16,17 +16,19 @@ Here are some ideas to get you started:
 -->
 
 Salut ! Moi c’est Mounir 👋
-🎯 Data Analyst en reconversion, j’ai récemment complété une formation intensive (bootcamp) en analyse de données, où j’ai développé des compétences solides en manipulation de données, visualisation et statistiques.
+🎯 Data Analyst formé  et certifié IBM , j’ai récemment complété une formation en analyse de données, où j’ai développé des compétences solides en manipulation de données, visualisation et statistiques et machine leanrning.
 
-🔍 Mon objectif : mettre la donnée au service de projets à impact, notamment dans les domaines environnementaux et sociaux.
+🔍 Mon objectif : mettre la donnée au service de projets à impact.
 
 📊 Compétences principales :
 
-    Python (Pandas, NumPy, Matplotlib, Seaborn)
+    Python (Pandas, NumPy, Matplotlib, Seaborn,plotly, regex, machine leaning, Api, webscraping,)
+    SQL
+    Power bi, cognos analytics, looker studio
 
-SQLPower BI / TableauExcel avancéAnglais : niveau B2
+ avancé Anglais : niveau B2
 
-💡 Curieuse, rigoureuse et orientée résultats, je suis actuellement à la recherche d’une alternance à partir de septembre 2025 pour continuer à apprendre et contribuer à des projets concrets.
+💡 Curieux, rigoureux et orienté résultats, je suis actuellement à la recherche d’une alternance à partir de septembre 2025 pour continuer à apprendre et contribuer à des projets concrets.
 
-📫 N’hésite pas à me contacter sur LinkedIn ou par mail : ton.email@exemple.com
+📫 N’hésite pas à me contacter sur LinkedIn ou par mail : conseilmounir@gmail.com
 ﻿
