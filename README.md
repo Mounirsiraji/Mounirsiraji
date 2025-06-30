@@ -1,34 +1,57 @@
-## Hi there 👋
+# 👋 Salut ! Je suis Mounir, un Data Analyst passionné,formé, opérationnel et certifié IBM.
 
-<!--
-**Mounirsiraji/Mounirsiraji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Actuellement en quête d'une alternance stimulante à partir de septembre 2025 pour mettre mes compétences au service de projets à fort impact.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Mon Parcours et mes Objectifs
 
-Salut ! Moi c’est Mounir 👋
-🎯 Data Analyst formé  et certifié IBM , j’ai récemment complété une formation en analyse de données, où j’ai développé des compétences solides en manipulation de données, visualisation et statistiques et machine leanrning.
+Fort d'une formation complète en analyse de données niveau 6 et certifié par IBM : Data Analyst et Data engenerring, j'ai développé une expertise solide dans l'ensemble du pipeline d'analyse : de la manipulation et la transformation des données brutes, à la visualisation des insights, en passant par l'application de méthodes statistiques et de machine learning.
 
-🔍 Mon objectif : mettre la donnée au service de projets à impact.
+Mon ambition est de transformer la donnée en décisions stratégiques et solutions concrètes pour les entreprises.
 
-📊 Compétences principales :
+---
 
-    Python (Pandas, NumPy, Matplotlib, Seaborn,plotly, regex, machine leaning, Api, webscraping,)
-    SQL
-    Power bi, cognos analytics, looker studio
+### 📊 Compétences Techniques
 
- avancé Anglais : niveau B2
+Voici un aperçu de mes outils et compétences :
 
-💡 Curieux, rigoureux et orienté résultats, je suis actuellement à la recherche d’une alternance à partir de septembre 2025 pour continuer à apprendre et contribuer à des projets concrets.
+* **Langages de Programmation :**
+    * **Python :** `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Plotly`, `re` (Regex), `scikit-learn` (Machine Learning), `requests` (API), `BeautifulSoup` (Web Scraping).
+    * **SQL :** Maîtrise des requêtes complexes, gestion de bases de données relationnelles (CRUD, Jointures, Agrégations).
 
-📫 N’hésite pas à me contacter sur LinkedIn ou par mail : conseilmounir@gmail.com
-﻿
+* **Outils de Business Intelligence (BI) :**
+    * `Power BI`
+    * `Cognos Analytics`
+    * `Looker Studio`
+
+* **Contrôle de Version :** `Git` / `GitHub` (utilisation pour la gestion de projets, comme ce portfolio).
+
+---
+
+### 💡 Mes Atouts
+
+* **Curieux et Proactif :** Toujours à l'affût des nouvelles méthodes et technologies pour résoudre des problèmes.
+* **Rigueur Analytique :** Capacité à analyser des jeux de données complexes et à en extraire des informations fiables.
+* **Orienté Résultats :** Engagement à livrer des analyses concrètes et actionnables.
+* **Anglais :** Niveau B2 (communication professionnelle).
+
+---
+
+### 🤝 Connectons-nous !
+
+Je suis ouvert aux opportunités d'alternance où je pourrai continuer à apprendre, à innover et à contribuer activement.
+
+* **LinkedIn :** [www.linkedin.com/in/mounir-siraji-389b2ba5]
+* **Email :** conseilmounir@gmail.com
+
+---
+
+Mise en action : 
+
+### 📂 Mes Projets
+
+Explorez mes dépôts pour découvrir mes projets récents en Data Analysis et Machine Learning, notamment :
+
+* **[Projet Prédiction du risque de défaut de crédit bancaire] :** [https://colab.research.google.com/drive/1YZM-ZTkymxhuJbJN_narzSFShd-tButy?usp=sharing] - 
+* **[Projet Cybersécurité] :** [ https://colab.research.google.com/drive/1lPENivs1e_9dv60BcHgUQ80eT39S4qsr?usp=sharing] - 
