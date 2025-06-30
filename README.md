@@ -6,7 +6,7 @@ Actuellement en quête d'une alternance stimulante à partir de septembre 2025 p
 
 ### 🚀 Mon Parcours et mes Objectifs
 
-Fort d'une formation complète en analyse de données niveau 6 et certifié par IBM : Data Analyst et Data engenerring, j'ai développé une expertise solide dans l'ensemble du pipeline d'analyse : de la manipulation et la transformation des données brutes, à la visualisation des insights, en passant par l'application de méthodes statistiques et de machine learning.
+Fort d'une formation complète en analyse de données niveau 6 et certifié par IBM : Data Analyst et Data engenering, j'ai développé une expertise solide dans l'ensemble du pipeline d'analyse : de la manipulation et la transformation des données brutes, à la visualisation des insights, en passant par l'application de méthodes statistiques et de machine learning.
 
 Mon ambition est de transformer la donnée en décisions stratégiques et solutions concrètes pour les entreprises.
 
@@ -25,7 +25,7 @@ Voici un aperçu de mes outils et compétences :
     * `Cognos Analytics`
     * `Looker Studio`
 
-* **Contrôle de Version :** `Git` / `GitHub` (utilisation pour la gestion de projets, comme ce portfolio).
+* **Contrôle de Version :** `Git` / `GitHub` .
 
 ---
 
