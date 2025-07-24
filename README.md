@@ -56,3 +56,4 @@ Explorez mes dépôts pour découvrir mes projets récents en Data Analysis et M
 * **[Projet Prédiction du risque de défaut de crédit bancaire] :** [https://colab.research.google.com/drive/1YZM-ZTkymxhuJbJN_narzSFShd-tButy?usp=sharing] - 
 * **[Projet Cybersécurité] :** [ https://colab.research.google.com/drive/1lPENivs1e_9dv60BcHgUQ80eT39S4qsr?usp=sharing] -
 * **[Data Assurance] :** [https://colab.research.google.com/drive/15hqITwhOnxEAgBpB25yMUwf93IPXrTrS?usp=sharing] -
+* **[Power BI Assurance] :**[https://drive.google.com/file/d/1xqKUV4bTiq9jMXNvFaNtIqUYzKk71WSv/view?usp=drive_link] -
